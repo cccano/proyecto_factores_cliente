@@ -1,4 +1,4 @@
-# sprint_8_proyecto_final
+# Correlación de factores del cliente con ingresos anuales
 uso de scatterplots, correalación de pearson, spearman, punto-biserial y v de cramer
 
 ## objetivo
