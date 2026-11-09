@@ -34,7 +34,14 @@ Desde el siguiente boton dando clic para ir al notebook
 
 **Guia de reproducción**
 
-En el notebook queda guardado el conjunto de archivos csv que son necesarios para realizar el análisis.
-solo tienes que direccionarte a colab desde el boton que abre el notebook, importar pandas ejecutar pd.read.csv() para ejecutar el conjunto de datos.
+Descarga el achivo csv "novaretail_comportamiento_clientes_2024.csv" y cargarlo a colab. 
+
+Dirígete al menú lateral izquierdo de tu Google Colab y haz clic en el ícono de Carpeta (Archivos).
+
+Haz clic en el primer ícono de arriba que dice "Subir al almacenamiento de sesiones" (representado con una pequeña carpeta y una flecha hacia arriba).
+
+Selecciona tu archivo desde tu PC.
+
+Una vez cargado en la lista, haz clic derecho sobre el nombre del archivo, selecciona "Copiar ruta" (Copy path) y pégala dentro de tu función de Pandas
 
 
